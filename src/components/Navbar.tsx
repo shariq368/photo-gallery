@@ -13,8 +13,8 @@ const Navbar = () => {
           
           <div className="ml-auto flex items-center space-x-4">
           <Avatar>
-  <AvatarImage src="https://www.flaticon.com/free-icon/man_2202112?term=avatar&page=1&position=1&origin=tag&related_id=2202112" />
-  <AvatarFallback>SQ</AvatarFallback>
+  <AvatarImage src='' />
+  <AvatarFallback>MS</AvatarFallback>
 </Avatar>
 
           </div>
@@ -28,4 +28,4 @@ export default Navbar
 
 
 
-{/* <h1 className="text-3xl font-bold tracking-tight">Photo Gallery</h1> */}
+
